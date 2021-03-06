@@ -1,0 +1,17 @@
+{
+  "name": "steamkit",
+  "version": "0.1.0",
+  "description": "A TypeScript library to interface with Steam",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "steam",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Tarun Verghis (tarun.verghis@gmail.com)",
+  "license": "MIT"
+}

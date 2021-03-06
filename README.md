@@ -1,0 +1,1 @@
+A TypeScript library to interface with Steam. Inspired by [node-steam](https://github.com/seishun/node-steam), and aims to be as feature-complete as the original [SteamKit](https://github.com/SteamRE/SteamKit) .NET library.
