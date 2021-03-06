@@ -5,7 +5,7 @@
 node_modules
 
 # Ignore built ts files
-dist/**/*
+dist
 
 # Ignore package-lock, since this is a library
 package-lock.json
