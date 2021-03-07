@@ -6,8 +6,9 @@
   "scripts": {
     "build": "$(npm bin)/tsc -p .",
     "watch": "$(npm bin)/tsc -w",
-    "test": "jest test/*.spec.ts",
-    "coverage": "jest test/*.spec.ts --coverage"
+    "test": "$(npm bin)/jest test/*.spec.ts",
+    "coverage": "$(npm bin)/jest test/*.spec.ts --coverage",
+    "fmt": "$(npm bin)/prettier --check ."
   },
   "keywords": [
     "node",
