@@ -6,7 +6,8 @@
   "scripts": {
     "build": "$(npm bin)/tsc -p .",
     "watch": "$(npm bin)/tsc -w",
-    "test": "jest test/*.spec.ts"
+    "test": "jest test/*.spec.ts",
+    "coverage": "jest test/*.spec.ts --coverage"
   },
   "keywords": [
     "node",
